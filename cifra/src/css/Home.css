@@ -1,0 +1,39 @@
+.pp-WP49YR8ZLYDNQ, .pp-T2E2G64R97UPJ {
+  text-align: center;
+  border: none;
+  border-radius: 1.5rem;
+  min-width: 11.625rem;
+  padding: 0 2rem;
+  font-weight: bold;
+  /* background-color: #FFEB12; */
+  font-size: 1rem;
+  line-height: 1.25rem;
+  cursor: pointer;
+}
+strong {
+  font-weight:700 !important;
+}
+p {
+  padding-bottom: 1rem;
+}
+ul{
+  list-style-type: disc;
+  list-style-position: inside;
+  margin-left: 2rem;
+}
+ol{
+  list-style-type: decimal;
+  list-style-position: inside;
+  margin-left: 2rem;
+}
+ul>li {
+  /* list-style-type:disc; */
+  padding-bottom: 0.5rem;
+  padding-left: 0.5rem;
+}
+ol>li {
+  list-style-type:decimal;
+  padding-bottom: 0.5rem;
+  padding-left: 0.5rem;
+  marker-start: 1rem;
+}
